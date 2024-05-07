@@ -56,7 +56,7 @@ fighting_class_names = ["NonViolence", "Violence"]
 IMAGE_HEIGHT, IMAGE_WIDTH = 64, 64
 SEQUENCE_LENGTH = 16
 
-receiver_email = 'ambika.sanap@vit.edu.in'  # Receiver email address
+receiver_email = 'hjhhjhj.com'  # Receiver email address
 
 # Assuming your server is running in a different timezone (e.g., UTC)
 server_timezone = timezone('UTC')
@@ -325,8 +325,8 @@ def save_notification_record(content, additional_info):
 
 def send_notification(receiver_email, subject, body, additional_info):
     # Replace these with your Gmail credentials
-    sender_email = 'aksanap2002@gmail.com'  # Your Gmail email address
-    sender_password = 'jinq bdcg aolb xeik'  # Your Gmail password
+    sender_email = 'aokokoko@gmail.com'  # Your Gmail email address
+    sender_password ='jhjghjghgfhfhfhfhfcgh'  # Your Gmail password
 
     msg = MIMEMultipart()
     msg['From'] = sender_email
